@@ -1,6 +1,9 @@
 Employee-Salary-Prediction
+
 To test: streamlit run app.py
+
 Edunet Foundation Project --
+
 <img width="1920" height="1080" alt="Screenshot 2025-07-23 114002" src="https://github.com/user-attachments/assets/a65a7564-3306-417c-8f47-f6d6d4f5018d" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-23 114443" src="https://github.com/user-attachments/assets/52415b91-e364-4628-b6be-1d2b306e0350" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-23 114528" src="https://github.com/user-attachments/assets/043c4265-9897-437b-8a9b-2fb9f1a8360f" />
